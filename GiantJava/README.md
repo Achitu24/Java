@@ -1,0 +1,3 @@
+# Giant.java
+
+A Java program which prints my Computer Science login username on the screen. The letters should be displayed vertically down the screen using giant letters composed of multiple strings of the character “*” and blank spaces. Moreover, the created program should allow the use of different characters which could be different for each of the giant letters in order to build the giant letter.
