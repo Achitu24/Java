@@ -9,3 +9,5 @@
 - Robot Movement - A Java program to calculate and print out various properties of a Robot
 - Swimming Pool - A Java program that calcualates the volume of a swimming pool and its fill time
 - Tunnel Toll - A Java program that determines and prints the vehicle class, the vehicle type and vehicle charge
+- Recursion Java File
+- Dot Segment Tree Java File
